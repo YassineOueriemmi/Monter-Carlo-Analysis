@@ -126,19 +126,4 @@ This study shows that:
 * While GBM is useful for simulation and pricing, it should **not be interpreted as a predictive model**
 * Market prices are best described as a **random process with non-Gaussian features**
 
----
 
-
-## How to Run
-
-1. Install dependencies:
-
-```bash
-pip install numpy pandas matplotlib seaborn yfinance scipy statsmodels
-```
-
-2. Run the Jupyter notebook:
-
-```bash
-jupyter notebook MonteCarlo.ipynb
-```
